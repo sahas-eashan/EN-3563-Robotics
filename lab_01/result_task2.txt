@@ -1,0 +1,12 @@
+R1_0 =
+    0.7424   -0.5198    0.4226
+    0.6436    0.7285   -0.2346
+   -0.1859    0.4462    0.8754
+
+Task 3.8 — tr2rpy default (radians) [roll pitch yaw] = [0.4713 0.1870 0.7143]
+           tr2rpy zyx   (radians) [0.4713 0.1870 0.7143]
+           tr2rpy xyz   (radians) [0.6109 0.4363 0.2618]
+           tr2rpy yxz   (radians) [0.7236 0.2368 0.4498]
+RPY (deg) roll ψ = 40.0021°, pitch θ = 29.9999°, yaw φ = 20.0001°
+R - rpy2r_F = 8.286e-05
+R - (RzRyRx)_F = 8.286e-05
